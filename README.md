@@ -19,7 +19,19 @@ Hands-on practice repository for my journey into QA / Test Automation Engineerin
 | `automation-exercise/` | UI + API | https://automationexercise.com |
 | `the-internet/` | Tricky UI elements | https://the-internet.herokuapp.com |
 
+## Repo Structure
+
+| Folder | Content |
+|---|---|
+| `notes/ctfl/` | ISTQB CTFL v4.0 study notes (one file per chapter) |
+| `notes/glossary.md` | TR - EN testing terms |
+| `js-practice/` | JavaScript exercises |
+| `bug-reports/` | Bug reports from manual testing |
+
 ## Progress
+
+- [ ] ISTQB CTFL v4.0
+- [ ] Postman: 15 Days of Postman for Testers
 
 - [ ] Playwright setup + first login test (saucedemo)
 - [ ] Page Object Model
